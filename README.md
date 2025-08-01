@@ -16,3 +16,4 @@ For more details, check out the [Heroku-specific deploy documentation](http://ww
 * Deploying Metabase version updates to Heroku
 * Troubleshooting
 * Developing more sufficently
+* giving a user-friendly environment
