@@ -6,7 +6,7 @@ set -e
 # Please update it there then copy to the metabase/metabase-deploy repository.
 #Please use this project at any time you really want
 # Translate various Heroku environment variables to Metabase equivalents
-
+#Add more new functions to provide new environment for all the users.
 if [ "$PORT" ]; then
     export MB_JETTY_PORT="$PORT"
 fi
